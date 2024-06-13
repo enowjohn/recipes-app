@@ -16,8 +16,9 @@ body {
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  gap: 0em;
+  gap: 1em;
   margin-bottom: 20px;
+  border-radius: 1px;
 }
 
 .img-sec {
